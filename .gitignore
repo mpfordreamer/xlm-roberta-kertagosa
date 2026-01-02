@@ -1,0 +1,24 @@
+# User requested
+dataset/
+
+# Generated Data & Splits
+dataset_xlmroberta/
+
+# Secrets & Environment variables (Critical security)
+.env
+
+# Python & Jupyter Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model Output & Logs (Large files)
+xlm-roberta-sentiment/
+xlm-roberta-sentiment-final/
+logs/
+runs/
+
+# Intermediate binary files
+*.npy
+*.pt
+*.bin

@@ -22,3 +22,5 @@ runs/
 *.npy
 *.pt
 *.bin
+
+collectdata.ipynb

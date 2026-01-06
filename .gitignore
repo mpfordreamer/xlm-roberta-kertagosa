@@ -24,3 +24,17 @@ runs/
 *.bin
 
 collectdata.ipynb
+
+# Data Splits
+data_split/
+
+# Results & Visualizations
+result/
+tmp_trainer/
+trial_0/
+trial_1/
+trial_2/
+trial_3/
+trial_4/
+trial_5/
+
